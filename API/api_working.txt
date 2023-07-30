@@ -1,0 +1,24 @@
+app.js -> Application level configuration file holds configuration of app like modules , route level middleware , application level middleware
+
+routers -> After checking base url route level middleware will redirect to specific router in routes folder
+
+controller -> It is logical implementation of application accepts data from router upcoming in request if required can make changes.
+
+As data is ready for insertion it will be validate by schema in controller & also connectivity will be implemented in same file 
+  
+
+
+//…or create a new repository on the command line
+
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MayankTomar10/test.git
+git push -u origin main
+
+//…or push an existing repository from the command line
+git remote add origin https://github.com/MayankTomar10/test.git
+git branch -M main
+git push -u origin main

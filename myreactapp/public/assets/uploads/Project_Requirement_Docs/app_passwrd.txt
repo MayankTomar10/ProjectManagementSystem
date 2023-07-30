@@ -1,0 +1,16 @@
+ api stands for application programing interface it is a block of code capable to implement diff diffent requirements 
+
+api are of two type depending on how they are implemented
+ 1) custom or userdefine (REST API)
+ 2) Builtin or predefine 
+
+ steps to intgrate Mail sending api
+
+
+ Step - 1) Move to ur gmail account and make the settings which is recuired for mail sending 
+        *  Enable two step varification 
+        *  Generate app password
+
+ Step -2) Integrate the api code to send mail 
+
+pass = sbvwkxkgbhiuaovx

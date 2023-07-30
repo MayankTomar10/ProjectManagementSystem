@@ -1,0 +1,7 @@
+file uploading = it is machanism to take file as a input ,to handle the file there are two ways 
+
+case 1 :  file resource can be pushed directly into the database occupy more database space it will be costly and reduce application performance
+
+case 2 : While handling the input file , file resource must be pushed on server while file name must be capt in database
+
+// object m file nahi add hoty h but uska content chala jayega 

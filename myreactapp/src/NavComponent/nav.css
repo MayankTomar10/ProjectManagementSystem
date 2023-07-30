@@ -1,0 +1,11 @@
+
+#nav{
+  height : 7%;
+  background-color: orange;
+}
+
+#nav a{
+  color: white;
+  font-weight : bold;
+  margin : 0 20px 0px 20px;
+}
